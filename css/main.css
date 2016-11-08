@@ -1,0 +1,22 @@
+body {
+	background-image: url("http://i3.wallpaperscraft.com/image/camera_mirror_background_74604_1680x1050.jpg")
+
+}
+
+h1 {
+	color: #FFE4C4 ;
+	font-family: 'Cinzel', serif;
+}
+
+p{
+	font-family: 'Itim', cursive;
+	color: #FFE4C4 ;
+	font-size: 25px;
+}
+
+
+.form-inline {
+    
+    color: #FFE4C4 ;
+    font-size: 20px;
+}
